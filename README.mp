@@ -1,1 +1,2 @@
-*CNN_project
+#**Image Classification Project**
+
